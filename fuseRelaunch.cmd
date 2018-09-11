@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/SOFTWARES/Xilinx/projects/Mini_MIPS_Design/Mux_isim_beh.exe" -prj "E:/SOFTWARES/Xilinx/projects/Mini_MIPS_Design/Mux_beh.prj" "work.Mux" 
