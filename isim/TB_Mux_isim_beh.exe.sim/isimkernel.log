@@ -1,0 +1,35 @@
+Command line:
+   TB_Mux_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55705
+
+Tue Sep 11 20:03:33 2018
+
+
+ Elaboration Time: 0.203125 sec
+
+ Current Memory Usage: 5827.95 Meg
+
+ Total Signals          : 8
+ Total Nets             : 97
+ Total Signal Drivers   : 4
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 2
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 458
+Total Line Count : 10
+
+** Failure:end
+User(VHDL) Code Called Simulation Stop
+In process TB_Mux.vhd:stim_proc 
+ 
+
+
+ Total Simulation Time: 0.21875 sec
+
+ Current Memory Usage: 5356.06 Meg
+
+Tue Sep 11 20:04:41 2018
+
